@@ -1,4 +1,4 @@
-/*body{
+body{
 	text-align:center;
 }
 header, section, footer, aside, nav, article, hgroup{
@@ -28,11 +28,11 @@ nav{
 	height:15px;
 	padding:4px;
 	border:2px solid black;
-	background:white;
+	background:#00BFFF;
 }
 #progressBar{
 	position:absolute;
 	width:0px;
 	height:15px;
-	background:blue;
-}*/
+	background:white;
+}

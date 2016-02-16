@@ -1,0 +1,21 @@
+body{
+	text-align:center;
+}
+#rot{
+	display:block;
+	margin:150px auto;
+	color:#ffffff;
+	-webkit-border-radius:10px;
+	opacity:0.6;
+	background:green;
+	width:120px;
+	height:75px;
+	-webkit-transition: -webkit-transform 2s, opacity 2s, background 2s, width 2s, height 2s;
+}
+#rot:hover{
+	-webkit-transform:rotate(360deg);
+	opacity: 1;
+	background:#FF00FF;
+	width:450px;
+	height:110px;
+}

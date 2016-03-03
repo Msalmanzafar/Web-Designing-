@@ -1,4 +1,4 @@
-# How to lean web designing through HTML5 & CSS3:
+# How to lean web designing through HTML5 & CSS3 + JavaScript:
 
 ####Q. What is HTML5?
 ######A. Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages. 
